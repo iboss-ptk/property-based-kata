@@ -1,0 +1,5 @@
+%{
+  "file_system": {:hex, :file_system, "0.2.6", "fd4dc3af89b9ab1dc8ccbcc214a0e60c41f34be251d9307920748a14bf41f1d3", [], [], "hexpm"},
+  "mix_test_watch": {:hex, :mix_test_watch, "0.7.0", "205f77063ed9b81ca41a2ab78486c653f9bfb1e5a341b5cf8fc2747dae67b0df", [], [{:file_system, "~> 0.2.1 or ~> 0.3", [hex: :file_system, repo: "hexpm", optional: false]}], "hexpm"},
+  "stream_data": {:hex, :stream_data, "0.4.2", "fa86b78c88ec4eaa482c0891350fcc23f19a79059a687760ddcf8680aac2799b", [], [], "hexpm"},
+}
